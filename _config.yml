@@ -5,10 +5,10 @@ rdiscount:
   extensions: [smart]
 exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
 title : Carlos Becker
-production_url : http://carlosbecker.com
+production_url : http://roachhd.github.io/up/
 description: "Througths, flamewars, utilities, tutorials, codes, projects and other things by Carlos Alexandro Becker."
 disqus_shortname: caarlos0blog
-analytics: UA-32899481-1
+analytics: UA-GOOGLE-1
 gauges: 50f2b533613f5d7c8000000c
 author :
   name : Carlos Alexandro Becker
