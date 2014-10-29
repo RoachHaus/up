@@ -1,6 +1,6 @@
 Up
 --------------
-
+ 
 Up is a clean and beautiful [Bootstrap](http://getbootstrap.com) based layout
 for [Jekyll](https://github.com/mojombo/jekyll).
 
@@ -101,3 +101,4 @@ You can also thank me doing a donation =)
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DXEJBUD2KYT7L)
 
 Thanks.
+ 
