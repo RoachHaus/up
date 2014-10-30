@@ -1,6 +1,17 @@
 Up
 --------------
+
+Dev Tools:
+ Bower
+ Grunt
+ Rake
+ Jekyll
+ GitHub
+ GitHub Pages
+ Node
+ Bootstrap
  
+
 Up is a clean and beautiful [Bootstrap](http://getbootstrap.com) based layout
 for [Jekyll](https://github.com/mojombo/jekyll).
 
