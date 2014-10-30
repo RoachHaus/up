@@ -4,7 +4,7 @@ permalink: /posts/:title
 rdiscount:
   extensions: [smart]
 exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
-title : Carlos Becker
+title : Katie Ball
 production_url : http://roachhaus.github.io/up
 description: "Througths, ramblings, technology, tutorials, codes, projects and other things by Katie Ball."
 disqus_shortname: caarlos0blog
